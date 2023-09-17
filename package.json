@@ -1,0 +1,27 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "Pcat Phoro App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onurguler18/PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "Onur Güler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onurguler18/PCAT/issues"
+  },
+  "homepage": "https://github.com/onurguler18/PCAT#readme",
+  "devDependencies": {
+    "prettier": "3.0.3"
+  }
+}
